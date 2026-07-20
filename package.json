@@ -1,0 +1,16 @@
+{
+  "name": "tutorial-5",
+  "version": "1.0.0",
+  "description": "a backend in youtube channel",
+  "keywords": [
+    "jvascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "soumyadeep chowdhury",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
